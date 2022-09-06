@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning DSA,Javascript,PYTHON,C++
+- 📫 How to reach me: kuldeeppawar427@gmail.com
+- ⚡ Fun fact: Love playing football have played at national level in table tennis
+
 <!--
 **blaz3fox/blaz3fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
